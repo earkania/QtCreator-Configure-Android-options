@@ -17,5 +17,7 @@ If you wish to add **Open SSL** support then download **Android OpenSSL support 
 
 When you done everything click OK button and you are setup for Android development in Qt Creator;
 
+Feel free to add any Android Virtual Devices.
+
 Below is a screenshot of my setup:
 ![Settings](https://github.com/earkania/QtCreator-Configure-Android-options/blob/master/settings.png)
