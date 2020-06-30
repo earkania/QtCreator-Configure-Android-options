@@ -3,7 +3,7 @@ First of all you need **Java SE Development Kit 8** and Android SDK.
 
 You can download Java SE Development Kit For Windows x64 from this [link](https://download.oracle.com/otn-pub/java/jdk/8u251-b08/3d5a2bb8f8d4428bbe94aed7ec7ae784/jdk-8u251-windows-x64.exe) or feel free to use any other source.
 
-For some reason my Qt Creator was not able automatically download Android SDK and I downloaded it from this [link](https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip). I have found this link in file **sdk_definitions.json** which is located at C:\Users\[User]\AppData\Roaming\QtProject\qtcreator\android\ folder (replace [User] with your account user name). 
+For some reason my Qt Creator was not able automatically download Android SDK and I downloaded it from this [link](https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip). I have found this link in file **sdk_definitions.json** which is located at C:\Users\\[User]\AppData\Roaming\QtProject\qtcreator\android\ folder (replace [User] with your account user name). 
 
 When you have downloaded both files install Java SE Development Kit at the location of you choose. I have installed at default location C:\Program Files\Java\jdk1.8.0_251. Then I unzipped sdk tools at the default location suggested in Qt Creator (for me it was C:\Users\[User]\Android\sdk). 
 
