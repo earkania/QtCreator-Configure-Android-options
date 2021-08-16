@@ -21,3 +21,6 @@ Feel free to add any Android Virtual Devices.
 
 Below is a screenshot of my setup:
 ![Settings](https://github.com/earkania/QtCreator-Configure-Android-options/blob/master/settings.png)
+
+
+Test
