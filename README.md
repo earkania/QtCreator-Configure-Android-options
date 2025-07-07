@@ -1,6 +1,6 @@
 # Configuring Android Device options in Qt Creator 4.12.3
 First of all you need **Java SE Development Kit 8** and Android SDK. 
-
+https://github.com/earkania/QtCreator-Configure-Android-options/blob/master/README.md
 You can download Java SE Development Kit For Windows x64 from this [link](https://download.oracle.com/otn-pub/java/jdk/8u251-b08/3d5a2bb8f8d4428bbe94aed7ec7ae784/jdk-8u251-windows-x64.exe) or feel free to use any other source.
 
 For some reason my Qt Creator was not able automatically download Android SDK and I downloaded it from this [link](https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip). I have found this link in file **sdk_definitions.json** which is located at C:\Users\\[User]\AppData\Roaming\QtProject\qtcreator\android\ folder (replace [User] with your account user name). 
@@ -23,6 +23,3 @@ Below is a screenshot of my setup:
 ![Settings](https://github.com/earkania/QtCreator-Configure-Android-options/blob/master/settings.png)
 
 
-Test1
-
-Test2
